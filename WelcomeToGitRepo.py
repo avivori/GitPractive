@@ -2,3 +2,4 @@
 
 if __name__ == "__main__" :
   print("Welcome to Git Repo")
+  print("Hello World")
